@@ -1,0 +1,25 @@
+#GIT_BRANCHING
+*Master branch-default branch
+*Feature branch-additional branch
+*Hotfix branch-bug fixing branch
+
+#Steps For Creating a branch
+
+##Identify the current branches
+**git branch**
+
+##Create new branch
+**git checkout -b feature-dd**
+
+##switch between branches
+**git checkout main**
+
+##Adding the branch to repository
+**git add .**
+**git commit -m"" -m""**
+**git push origin main**
+
+##Combing the step of adding and committing
+**git commit -am""**
+
+Note:Changes in the master branch it doesnot affect the feature branch similarly for master branch.
