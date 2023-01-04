@@ -1,0 +1,31 @@
+#Steps to push the changes into repository from local machine
+
+##Cloning the Repository
+**git clone link**
+
+##Get Status
+**git status**
+
+##Tracking the Changes
+**git add fileneame**
+
+##Track all changes
+**git add .**
+
+##Committing the Changes
+**git commit -m("filename") -m("description")**
+
+##pushing the changes from local machine to the repository
+**git push -u origin main**
+
+
+#Steps to push a new folder created in local machine to remote
+
+##Intialize empty git repository
+**git init**
+
+##To connect the new repo to the Github
+**git remote add origin/link**
+
+##Push it into the Repo
+**git push -u origin main**
