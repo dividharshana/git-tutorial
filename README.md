@@ -83,7 +83,9 @@ git pull
 
 # GIT_BRANCHING
 *Master branch-default branch
+
 *Feature branch-additional branch
+
 *Hotfix branch-bug fixing branch
 
 ## Steps For Creating a branch
