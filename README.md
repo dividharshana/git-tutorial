@@ -4,11 +4,13 @@
 
 *Study on Push, pull,branching and merging in Git
 
-#GIT
 
-open source 'control system'
+# GIT
 
-#GIT COMMANDS
+Free and open source 'control system'
+
+
+# GIT COMMANDS
 
 **Clone**-bring the repo that is hosted on github into a folder on your local machine 
 
@@ -20,16 +22,16 @@ open source 'control system'
 
 **pull**-download changes from remote repo to your local machine
 
-#PUSH_COMMANDS
 
-##Steps to push the changes into repository from local machine
+# PUSH_COMMANDS
 
-###Cloning the Repository
-#
-git clone link
+## Steps to push the changes into repository from local machine
 
-###Get Status
-**git status**
+### Cloning the Repository
+'''git clone link'''
+
+### Get Status
+'''git status'''
 
 ###Tracking the Changes
 **git add fileneame**
