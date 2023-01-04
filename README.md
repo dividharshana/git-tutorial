@@ -28,7 +28,9 @@ Free and open source 'control system'
 ## Steps to push the changes into repository from local machine
 
 ### Cloning the Repository
-'''git clone link'''
+'''
+git clone link
+'''
 
 ### Get Status
 '''git status'''
