@@ -29,3 +29,7 @@
 
 ##Push it into the Repo
 **git push -u origin main**
+
+
+#Pull Request
+**git pull**
